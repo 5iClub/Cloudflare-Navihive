@@ -22,7 +22,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers-f38020)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zqq-nuli/Cloudflare-Navihive)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/5iClub/Cloudflare-Navihive)
 
 </div>
 
@@ -301,7 +301,7 @@ CREATE INDEX IF NOT EXISTS idx_sites_is_public ON sites(is_public);
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/zqq-nuli/Cloudflare-Navihive.git
+git clone https://github.com/5iClub/Cloudflare-Navihive.git
 cd Cloudflare-Navihive
 ```
 
@@ -914,7 +914,7 @@ A: 可以！NaviHive 采用 MIT 开源许可证，你可以：
 
 **Q: 遇到其他问题怎么办？**
 
-1. 查看项目的 [Issues 页面](https://github.com/zqq-nuli/Cloudflare-Navihive/issues)
+1. 查看项目的 [Issues 页面](https://github.com/5iClub/Cloudflare-Navihive/issues)
 2. 搜索是否有人遇到过类似问题
 3. 如果没有，创建新 Issue 并详细描述问题（包括错误信息、操作步骤、浏览器版本等）
 
@@ -1008,7 +1008,7 @@ pnpm format
 ### 寻求帮助
 
 - 📖 查看 [CLAUDE.md](CLAUDE.md) 了解项目详细架构
-- 💬 在 [Issues](https://github.com/zqq-nuli/Cloudflare-Navihive/issues) 中提问
+- 💬 在 [Issues](https://github.com/5iClub/Cloudflare-Navihive/issues) 中提问
 - 🐛 报告 Bug 时请包含：错误信息、复现步骤、浏览器版本
 
 ## 📄 许可证
@@ -1114,13 +1114,6 @@ pnpm format
 - **Fork** 项目，参与改进和定制
 - 分享给你的朋友和同事
 
-### 💰 赞赏支持
-你的赞赏将用于项目的持续开发和维护：
-
-<div align="center">
-  <img src="https://img.zhengmi.org/file/1743956440128_4b965550184c06d8164f8077fa42b5d.jpg" alt="微信赞赏码" width="300">
-  <p><em>微信扫码赞赏</em></p>
-</div>
 
 ### 🤝 其他支持方式
 - 💬 提交有价值的 Issue 和 Feature Request
@@ -1132,9 +1125,9 @@ pnpm format
 ## 📈 Star History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zqq-nuli/Cloudflare-Navihive&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zqq-nuli/Cloudflare-Navihive&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zqq-nuli/Cloudflare-Navihive&type=Date" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=5iClub/Cloudflare-Navihive&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=5iClub/Cloudflare-Navihive&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=5iClub/Cloudflare-Navihive&type=Date" />
 </picture>
 
 ---
@@ -1145,9 +1138,9 @@ pnpm format
 
 **NaviHive** - 你的专属网络导航中心
 
-[立即部署](https://deploy.workers.cloudflare.com/?url=https://github.com/zqq-nuli/Cloudflare-Navihive) · [在线演示](https://navihive.chatbot.cab/) · [提交问题](https://github.com/zqq-nuli/Cloudflare-Navihive/issues) · [参与贡献](https://github.com/zqq-nuli/Cloudflare-Navihive/pulls)
+[立即部署](https://deploy.workers.cloudflare.com/?url=https://github.com/5iClub/Cloudflare-Navihive) · [在线演示](https://navihive.chatbot.cab/) · [提交问题](https://github.com/5iClub/Cloudflare-Navihive/issues) · [参与贡献](https://github.com/5iClub/Cloudflare-Navihive/pulls)
 
-Made with ❤️ by [zqq-nuli](https://github.com/zqq-nuli)
+Made with ❤️ by [5iClub](https://github.com/5iClub)
 
 ⭐ 如果觉得有用，别忘了点个 Star 哦 ⭐
 
